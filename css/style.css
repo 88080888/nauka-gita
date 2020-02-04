@@ -4,10 +4,13 @@ body { margin:0;
 .header {
     text-align: left;
     padding-top: 36px;
-    padding-bottom: 36px;
     margin-left: 600px;
 }
 .header h6 {
     font-style: italic;
     padding-bottom: 30px;
+}
+
+.content {
+    margin-left: 600px;
 }
