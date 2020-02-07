@@ -5,6 +5,7 @@ body { margin:0;
     text-align: left;
     padding-top: 35px;
     margin-left: 600px;
+    display: -ms-flexbox;
     display: flex;
 }
 .header h6 {

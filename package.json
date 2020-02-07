@@ -19,5 +19,9 @@
   "homepage": "https://github.com/88080888/nauka-gita#readme",
   "devDependencies": {
     "browser-sync": "^2.26.7"
+  },
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "html-validate": "^2.14.0"
   }
 }
