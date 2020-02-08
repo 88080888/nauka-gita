@@ -23,5 +23,13 @@
   "dependencies": {
     "autoprefixer-cli": "^1.0.0",
     "html-validate": "^2.14.0"
+  },
+  "extends": [
+    "htmlvalidate:recommended"
+  ],
+ 
+  "rules": {
+    "close-order": "error",
+    "void": ["warn", {"style": "omit"}]
   }
 }
